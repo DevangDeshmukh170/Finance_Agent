@@ -40,7 +40,4 @@ Many individuals, particularly in rural and low-income groups, lack financial li
 - Offline access via SMS/USSD
 - Financial goal tracking and reminders
 
-## 📸 Screenshots
-_Add screenshots of the interface or system here_
 
-## 📂 Project Structure
